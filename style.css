@@ -58,6 +58,7 @@ ul li a{
     font-family: Arial;
     font-weight: bold;
     transition: 0.3s ease-in-out;
+    white-space: nowrap;
 }
 
 ul li a:hover{
